@@ -1,0 +1,32 @@
+C:\Users\ramuz\Documents\Visual Studio 2015\Projects\Puffy\Puffy\bin\Release\Puffy.exe.config
+C:\Users\ramuz\Documents\Visual Studio 2015\Projects\Puffy\Puffy\bin\Release\Puffy.exe
+C:\Users\ramuz\Documents\Visual Studio 2015\Projects\Puffy\Puffy\bin\Release\Puffy.pdb
+C:\Users\ramuz\Documents\Visual Studio 2015\Projects\Puffy\Puffy\bin\Release\Microsoft.Kinect.dll
+C:\Users\ramuz\Documents\Visual Studio 2015\Projects\Puffy\Puffy\bin\Release\Microsoft.Kinect.xml
+C:\Users\ramuz\Documents\Visual Studio 2015\Projects\Puffy\Puffy\obj\Release\MainWindow.g.cs
+C:\Users\ramuz\Documents\Visual Studio 2015\Projects\Puffy\Puffy\obj\Release\App.g.cs
+C:\Users\ramuz\Documents\Visual Studio 2015\Projects\Puffy\Puffy\obj\Release\Puffy_MarkupCompile.cache
+C:\Users\ramuz\Documents\Visual Studio 2015\Projects\Puffy\Puffy\obj\Release\Puffy_MarkupCompile.lref
+C:\Users\ramuz\Documents\Visual Studio 2015\Projects\Puffy\Puffy\obj\Release\MainWindow.baml
+C:\Users\ramuz\Documents\Visual Studio 2015\Projects\Puffy\Puffy\obj\Release\Puffy.g.resources
+C:\Users\ramuz\Documents\Visual Studio 2015\Projects\Puffy\Puffy\obj\Release\PuffyProject.Properties.Resources.resources
+C:\Users\ramuz\Documents\Visual Studio 2015\Projects\Puffy\Puffy\obj\Release\Puffy.csproj.GenerateResource.Cache
+C:\Users\ramuz\Documents\Visual Studio 2015\Projects\Puffy\Puffy\obj\Release\Puffy.exe
+C:\Users\ramuz\Documents\Visual Studio 2015\Projects\Puffy\Puffy\obj\Release\Puffy.pdb
+C:\Users\ramuz\Documents\Visual Studio 2015\Projects\Puffy\Puffy\obj\Release\Puffy.csprojResolveAssemblyReference.cache
+C:\Users\ramuz\Documents\Projets Info\Visual Studio 2015\Projects\Puffy\Puffy\obj\Release\MainWindow.g.cs
+C:\Users\ramuz\Documents\Projets Info\Visual Studio 2015\Projects\Puffy\Puffy\obj\Release\App.g.cs
+C:\Users\ramuz\Documents\Projets Info\Visual Studio 2015\Projects\Puffy\Puffy\obj\Release\Puffy_MarkupCompile.cache
+C:\Users\ramuz\Documents\Projets Info\Visual Studio 2015\Projects\Puffy\Puffy\obj\Release\Puffy_MarkupCompile.lref
+C:\Users\ramuz\Documents\Projets Info\Visual Studio 2015\Projects\Puffy\Puffy\bin\Release\Puffy.exe.config
+C:\Users\ramuz\Documents\Projets Info\Visual Studio 2015\Projects\Puffy\Puffy\bin\Release\Puffy.exe
+C:\Users\ramuz\Documents\Projets Info\Visual Studio 2015\Projects\Puffy\Puffy\bin\Release\Puffy.pdb
+C:\Users\ramuz\Documents\Projets Info\Visual Studio 2015\Projects\Puffy\Puffy\bin\Release\Microsoft.Kinect.dll
+C:\Users\ramuz\Documents\Projets Info\Visual Studio 2015\Projects\Puffy\Puffy\bin\Release\Microsoft.Kinect.xml
+C:\Users\ramuz\Documents\Projets Info\Visual Studio 2015\Projects\Puffy\Puffy\obj\Release\MainWindow.baml
+C:\Users\ramuz\Documents\Projets Info\Visual Studio 2015\Projects\Puffy\Puffy\obj\Release\Puffy.g.resources
+C:\Users\ramuz\Documents\Projets Info\Visual Studio 2015\Projects\Puffy\Puffy\obj\Release\PuffyProject.Properties.Resources.resources
+C:\Users\ramuz\Documents\Projets Info\Visual Studio 2015\Projects\Puffy\Puffy\obj\Release\Puffy.csproj.GenerateResource.Cache
+C:\Users\ramuz\Documents\Projets Info\Visual Studio 2015\Projects\Puffy\Puffy\obj\Release\Puffy.exe
+C:\Users\ramuz\Documents\Projets Info\Visual Studio 2015\Projects\Puffy\Puffy\obj\Release\Puffy.pdb
+C:\Users\ramuz\Documents\Projets Info\Visual Studio 2015\Projects\Puffy\Puffy\obj\Release\Puffy.csprojResolveAssemblyReference.cache

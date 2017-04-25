@@ -1,0 +1,19 @@
+﻿<Window x:Class="PuffyProject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PuffyProject"
+        mc:Ignorable="d"
+        WindowStyle="None"
+        Title="MainWindow" Height="350" Width="525" Loaded ="Window_Loaded">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="7*" />
+            <ColumnDefinition Width="502*" />
+            <ColumnDefinition Width="9*" />
+        </Grid.ColumnDefinitions>
+        <StackPanel Name="imgPhoto" Grid.ColumnSpan="2" Margin="7,0,0.6,-0.2" 
+        />
+    </Grid>
+</Window>

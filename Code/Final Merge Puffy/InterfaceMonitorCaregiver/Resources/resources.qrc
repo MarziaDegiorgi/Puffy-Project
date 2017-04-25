@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/pictures">
+        <file>puffy.png</file>
+    </qresource>
+</RCC>
